@@ -6,8 +6,8 @@ import requests
 
 # for num in range(1340,1349):
 
-    # url = "http://jandan.net/ooxx/page-"+str(num)
-url = "http://t66y.com/htm_data/2/1503/1424267.html"
+url = "http://jandan.net/ooxx/page-"+str(num)
+
 html_content = pq(url)
 # print(html_content)
 
